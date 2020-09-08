@@ -63,7 +63,7 @@ function displayPhotos() {
 }
 
 
-// Get photos from UUnsplash API
+// Get photos from Unsplash API
 
 async function getPhotos() {
     try {
